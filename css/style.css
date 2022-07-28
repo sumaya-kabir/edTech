@@ -1,7 +1,11 @@
+.darkened-image {
+    filter: brightness(50%);
+}
 .star-color {
     color: gold;
 }
 
 .social-icons i {
     font-size: 30px;
+    padding: 10px;
 }
