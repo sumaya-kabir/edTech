@@ -1,11 +1,14 @@
+/* dark slider image  */
 .darkened-image {
     filter: brightness(50%);
 }
+
+/* rating star color  */
 .star-color {
     color: gold;
 }
 
+/* footer icons sizing  */
 .social-icons i {
     font-size: 30px;
-    padding: 10px;
 }
